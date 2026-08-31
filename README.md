@@ -69,8 +69,6 @@ POST   /api/upload/pdf                  PDF 업로드
 
 ## 소스 코드
 
-6인 팀 프로젝트라 코드를 여기 다시 올리진 않았고, 이미 공개돼 있는 팀 저장소로 링크만 걸어둡니다.
-
 - **저장소**: https://github.com/RublerubitZ/semicolon
 - **배포 링크**: https://semicolon-phi.vercel.app
 - **팀 구성**: PM 이승민 · 프론트엔드 김민석 · 백엔드 구승율/조현빈 · UI/UX 공지호/김태희
